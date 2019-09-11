@@ -2,3 +2,22 @@ html {
   font-family: 'Montserrat', sans-serif;
   font-family: 'Playfair Display', serif;
 }
+
+.card {
+  background-color: #a6bec2;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  left: 3em;
+  top: 3em;
+}
+
+.picture {
+  width: 30%;
+}
+
+.logo {
+  width: 60%;
+}
+
+p {
+  color: #fff;
+}
