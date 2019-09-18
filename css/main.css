@@ -4,30 +4,33 @@ html {
 }
 
 .card {
-  background-color: #a6bec2;
+  background-color: #936785;
+}
+
+.container {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .picture {
-  width: 30%;
+  width: 20%;
 }
 
 .logo {
-  width: 70%;
+  width: 50%;
 }
 
 p {
-  color: #fff;
+  color: #000;
   font-family: 'Playfair Display', serif;
 }
 
 a {
-  color: #6382A6;
   text-decoration: none;
   font-family: 'Playfair Display', serif;
+  color: #000;
 }
 
 h4 {
   font-family: 'Montserrat', sans-serif;
-  color: #fff;
+  color: #000;
 }
